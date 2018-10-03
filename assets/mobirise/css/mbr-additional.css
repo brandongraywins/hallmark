@@ -1754,7 +1754,7 @@ body {
   color: #767676 !important;
 }
 .cid-r2XTu19Frv {
-  background-image: url("../../../assets/images/nathan-fertig-371188-unsplash-2000x1333.jpg");
+  background-image: url("../../../assets/images/dth-banner-1920x1080.jpg");
 }
 .cid-r2Y4n4x26M {
   padding-top: 30px;
@@ -1795,6 +1795,43 @@ body {
 }
 .cid-r2ZdDCcjN2 .card {
   padding-bottom: 1.5rem;
+}
+.cid-r5nKLOExNE {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-color: #f9f9f9;
+}
+.cid-r5nKLOExNE .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r5nKLOExNE .media-row {
+  display: flex;
+  justify-content: center;
+}
+.cid-r5nKLOExNE .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-r5nKLOExNE .team-item .item-image img {
+  width: 100%;
+}
+.cid-r5nKLOExNE .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-r5nKLOExNE .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-r5nKLOExNE .team-item .item-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-r5nKLOExNE .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-r5nKLOExNE .team-item .item-caption {
+  background: #efefef;
 }
 .cid-r2Z0zgNO7y {
   padding-top: 90px;
@@ -1851,10 +1888,158 @@ body {
     width: 100% !important;
   }
 }
+.cid-r5fUqrWOxQ {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #f9f9f9;
+}
+.cid-r5fUqrWOxQ .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r5fUqrWOxQ .media-row {
+  display: flex;
+  justify-content: center;
+}
+.cid-r5fUqrWOxQ .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-r5fUqrWOxQ .team-item .item-image img {
+  width: 100%;
+}
+.cid-r5fUqrWOxQ .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-r5fUqrWOxQ .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-r5fUqrWOxQ .team-item .item-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-r5fUqrWOxQ .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-r5fUqrWOxQ .team-item .item-caption {
+  background: #efefef;
+}
+.cid-r5fWel7Rfe {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f9f9f9;
+}
+.cid-r5fWel7Rfe .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r5fWel7Rfe .media-row {
+  display: flex;
+  justify-content: center;
+}
+.cid-r5fWel7Rfe .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-r5fWel7Rfe .team-item .item-image img {
+  width: 100%;
+}
+.cid-r5fWel7Rfe .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-r5fWel7Rfe .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-r5fWel7Rfe .team-item .item-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-r5fWel7Rfe .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-r5fWel7Rfe .team-item .item-caption {
+  background: #efefef;
+}
+.cid-r5nBS9uZLS {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #f9f9f9;
+}
+.cid-r5nBS9uZLS .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r5nBS9uZLS .media-row {
+  display: flex;
+  justify-content: center;
+}
+.cid-r5nBS9uZLS .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-r5nBS9uZLS .team-item .item-image img {
+  width: 100%;
+}
+.cid-r5nBS9uZLS .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-r5nBS9uZLS .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-r5nBS9uZLS .team-item .item-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-r5nBS9uZLS .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-r5nBS9uZLS .team-item .item-caption {
+  background: #efefef;
+}
+.cid-r5nCOzKTFe {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f9f9f9;
+}
+.cid-r5nCOzKTFe .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r5nCOzKTFe .media-row {
+  display: flex;
+  justify-content: center;
+}
+.cid-r5nCOzKTFe .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-r5nCOzKTFe .team-item .item-image img {
+  width: 100%;
+}
+.cid-r5nCOzKTFe .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-r5nCOzKTFe .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-r5nCOzKTFe .team-item .item-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-r5nCOzKTFe .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-r5nCOzKTFe .team-item .item-caption {
+  background: #efefef;
+}
 .cid-r2Z3W4VqmS {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #55b4d4;
 }
 .cid-r2Z3W4VqmS .mbr-section-subtitle {
   color: #767676;
